@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/simplabs/ember-cli-simple-auth-torii",
   "dependencies": {
-    "torii": "0.5.1",
+    "torii": "https://github.com/fernandodrumond/torii/tarball/0_4_1_fixed",
     "ember-cli-simple-auth": "0.8.0"
   }
 }
